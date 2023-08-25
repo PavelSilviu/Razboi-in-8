@@ -4,7 +4,7 @@
 Razboi in 8 is an engaging board game project developed in C++ with a graphical user interface (GUI). The game is played on a chessboard and involves two players. Players control their own set of pieces that move diagonally and capture opponents' pieces through diagonal attacks. The player with the highest score emerges as the winner.
 
 ## Video Presentation
-![View here on YouTube](https://www.youtube.com/watch?v=Fk88vIF6k8w&t=99s)
+[View here on YouTube](https://www.youtube.com/watch?v=Fk88vIF6k8w&t=99s)
 
 ## Project Details
 Outlined below are key aspects of the project that have been implemented:
